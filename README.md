@@ -31,3 +31,9 @@ learned:
 - glassy background 
     -    background-color: rgba(255, 255, 255, 0.05);
     -    border: 1px solid rgba(255, 255, 255, 0.2);
+
+article = card 
+
+animations using AOS in JS 
+- data-aos="fade-up" (down, left, right)
+- data-aos = "flip-up"
